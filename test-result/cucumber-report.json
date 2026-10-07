@@ -1,0 +1,129 @@
+[
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "hooks-with-more-than-one-scenario;verify-playwright-frames",
+        "keyword": "Scenario",
+        "line": 7,
+        "name": "verify playwright frames",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            },
+            "keyword": "Before",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            },
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "I launch the facebook in hooks",
+            "match": {
+              "location": "PlaywrightAutomationCode\\StepDefinition\\Hooks.ts:155"
+            }
+          },
+          {
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            },
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 8,
+            "name": "I verify playwright frames in hooks",
+            "match": {
+              "location": "PlaywrightAutomationCode\\StepDefinition\\Hooks.ts:89"
+            }
+          },
+          {
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            },
+            "keyword": "After",
+            "hidden": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "@method",
+            "line": 6
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "hooks-with-more-than-one-scenario;verify-playwright-frames",
+        "keyword": "Scenario",
+        "line": 11,
+        "name": "verify playwright frames",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            },
+            "keyword": "Before",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            },
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "I launch the facebook in hooks",
+            "match": {
+              "location": "PlaywrightAutomationCode\\StepDefinition\\Hooks.ts:155"
+            }
+          },
+          {
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            },
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 12,
+            "name": "I launch the test automation practice application in hooks",
+            "match": {
+              "location": "PlaywrightAutomationCode\\StepDefinition\\Hooks.ts:148"
+            }
+          },
+          {
+            "result": {
+              "status": "skipped",
+              "duration": 0
+            },
+            "keyword": "After",
+            "hidden": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "@method",
+            "line": 10
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "hooks-with-more-than-one-scenario",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "Hooks With More Than one scenario",
+    "tags": [],
+    "uri": "PlaywrightAutomationCode\\FeatureFiles\\HooksWithBackgroundKeyword.feature"
+  }
+]
